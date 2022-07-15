@@ -1,0 +1,28 @@
+﻿生成启动时间为 2022/7/15 17:25:38。
+     1>项目“c:\Users\long2\documents\visual studio 2013\Projects\GAME\GAME\GAME.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“c:\users\long2\documents\visual studio 2013\Projects\GAME\Debug\”。
+         正在创建目录“Debug\GAME.tlog\”。
+       InitializeBuildStatus:
+         正在创建“Debug\GAME.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp test.cpp
+         test.cpp
+     1>c:\users\long2\documents\visual studio 2013\projects\game\game\test.cpp(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+                 c:\users\long2\documents\visual studio 2013\projects\game\game\test.cpp(1) : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+         game.cpp
+     1>c:\users\long2\documents\visual studio 2013\projects\game\game\game.cpp(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+                 c:\users\long2\documents\visual studio 2013\projects\game\game\game.cpp(1) : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\long2\documents\visual studio 2013\Projects\GAME\Debug\GAME.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\long2\documents\visual studio 2013\Projects\GAME\Debug\GAME.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\long2\documents\visual studio 2013\Projects\GAME\Debug\GAME.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         GAME.vcxproj -> c:\users\long2\documents\visual studio 2013\Projects\GAME\Debug\GAME.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\GAME.tlog\unsuccessfulbuild”。
+         正在对“Debug\GAME.tlog\GAME.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\long2\documents\visual studio 2013\Projects\GAME\GAME\GAME.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.61
